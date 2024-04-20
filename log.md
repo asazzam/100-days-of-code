@@ -19,3 +19,13 @@
 **Thoughts:** Still getting the hang of things, but I'm having fun just playing around and seeing what works.
 
 **Link to work:** [Landing Page](https://github.com/asazzam/landing-pages/tree/main/001)
+
+### Day 3: April 19, 2024
+
+#####
+
+**Today's Progress**: I completed Day 2 of [Conquering Responsive Layouts](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts). Also did some more work on the Italian restaurant landing page, mainly on styling.
+
+**Thoughts:** I'm definitely not a designer. I feel good about my progress so far, though.
+
+**Link to work:** [Landing Page](https://github.com/asazzam/landing-pages/tree/main/001)
