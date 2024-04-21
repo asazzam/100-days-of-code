@@ -29,3 +29,13 @@
 **Thoughts:** I'm definitely not a designer. I feel good about my progress so far, though.
 
 **Link to work:** [Landing Page](https://github.com/asazzam/landing-pages/tree/main/001)
+
+### Day 4: April 20, 2024
+
+#####
+
+**Today's Progress**: I got a late start today, but finally got started on a blog post project for my Udacity course. I mainly worked on figuring out the layout and figuring out how I want to do the CSS since at least 3 imports are required for this project.
+
+**Thoughts:** I'm still not a designer, so the layout part takes me a bit longer than it should. But I'm looking forward to playing around with flexbox and grid because I need more practice.
+
+**Link to work:** None today, the repo is still private.
