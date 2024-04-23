@@ -39,3 +39,23 @@
 **Thoughts:** I'm still not a designer, so the layout part takes me a bit longer than it should. But I'm looking forward to playing around with flexbox and grid because I need more practice.
 
 **Link to work:** None today, the repo is still private.
+
+### Day 5: April 21, 2024
+
+#####
+
+**Today's Progress**: I forgot to update the log, but I did work on my blog post project.
+
+**Thoughts:** I didn't get to any of the flexbox or grid yet, but I'm looking forward to seeing how that turns out.
+
+**Link to work:** None link, private repo.
+
+### Day 6: April 22, 2024
+
+#####
+
+**Today's Progress**: I wanted to switch gears and do something with JavaScript today. I made a heart trail animation and an animated typing text effect.
+
+**Thoughts:** I feel so accomplished when I get something to work!
+
+**Link to work:** [Practice Projects](https://github.com/asazzam/practice-projects)
