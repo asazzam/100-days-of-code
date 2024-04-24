@@ -59,3 +59,13 @@
 **Thoughts:** I feel so accomplished when I get something to work!
 
 **Link to work:** [Practice Projects](https://github.com/asazzam/practice-projects)
+
+### Day 7: April 23, 2024
+
+#####
+
+**Today's Progress**: I didn't get much done today, but I at least finished a mini calendar project using HTML, CSS, and JavaScript.
+
+**Thoughts:** Coding everyday really does help with how much I'm retaining, even when I am only able to work on one small project. I definitely want to keep this habit up.
+
+**Link to work:** [Practice Projects: Mini Calendar](https://github.com/asazzam/practice-projects/tree/main/03-mini-calendar)
