@@ -48,7 +48,7 @@
 
 **Thoughts:** I didn't get to any of the flexbox or grid yet, but I'm looking forward to seeing how that turns out.
 
-**Link to work:** None link, private repo.
+**Link to work:** No link, private repo.
 
 ### Day 6: April 22, 2024
 
@@ -69,3 +69,13 @@
 **Thoughts:** Coding everyday really does help with how much I'm retaining, even when I am only able to work on one small project. I definitely want to keep this habit up.
 
 **Link to work:** [Practice Projects: Mini Calendar](https://github.com/asazzam/practice-projects/tree/main/03-mini-calendar)
+
+### Day 8: April 24, 2024
+
+#####
+
+**Today's Progress**: Another late start day, but I wanted to at least get something completed. I set up the shell of my portfolio site for SkillCrush and completed a rainbow ripple effect on a button.
+
+**Thoughts:** I love seeing what JavaScript is capable of. I can't wait until I understand it more.
+
+**Link to work:** [Practice Projects: Button Ripple Effect](https://github.com/asazzam/practice-projects/tree/main/04-button-ripple-effect)
