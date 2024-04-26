@@ -79,3 +79,13 @@
 **Thoughts:** I love seeing what JavaScript is capable of. I can't wait until I understand it more.
 
 **Link to work:** [Practice Projects: Button Ripple Effect](https://github.com/asazzam/practice-projects/tree/main/04-button-ripple-effect)
+
+### Day 8: April 24, 2024
+
+#####
+
+**Today's Progress**: It's been a busy week, so I haven't gotten as much done as I would have liked. Today I made a random image generator using Lorem Picsum.
+
+**Thoughts:** I'm hoping I'll get more done this weekend. Progress has been a bit slow the last few days.
+
+**Link to work:** [Practice Projects: Random Images](https://github.com/asazzam/practice-projects/tree/main/05-random-photos)
