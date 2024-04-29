@@ -80,7 +80,7 @@
 
 **Link to work:** [Practice Projects: Button Ripple Effect](https://github.com/asazzam/practice-projects/tree/main/04-button-ripple-effect)
 
-### Day 8: April 24, 2024
+### Day 9: April 25, 2024
 
 #####
 
@@ -89,3 +89,13 @@
 **Thoughts:** I'm hoping I'll get more done this weekend. Progress has been a bit slow the last few days.
 
 **Link to work:** [Practice Projects: Random Images](https://github.com/asazzam/practice-projects/tree/main/05-random-photos)
+
+### Days 10 - 12: April 26/27/28, 2024
+
+#####
+
+**Today's Progress**: The busy week turned into busy weekend. Luckily I didn't miss out on any coding, but I did forget to push my commits one day and forgot to update this log. I spent a lot of time working on [practice projects](https://youtu.be/NfvtQ2p5QG4?si=uUc95pgWzDMV5w60), which have been really good for my comprehension. I also worked on my blog post project that's due soon.
+
+**Thoughts:** I'm starting to better understand how things work and am feeling a little more confident in my coding.
+
+**Link to work:** [Practice Projects](https://github.com/asazzam/practice-projects)
