@@ -99,3 +99,13 @@
 **Thoughts:** I'm starting to better understand how things work and am feeling a little more confident in my coding.
 
 **Link to work:** [Practice Projects](https://github.com/asazzam/practice-projects)
+
+### Day 13: April 299, 2024
+
+#####
+
+**Today's Progress**: Still busy! Didn't have time for much today, but I did do one of the practice projects.
+
+**Thoughts:** I enjoy JavaScript, I just can't wait until I understand it more.
+
+**Link to work:** [Practice Projects: Double Landing Page](https://github.com/asazzam/practice-projects/tree/main/10-double-landing-page)
