@@ -100,7 +100,7 @@
 
 **Link to work:** [Practice Projects](https://github.com/asazzam/practice-projects)
 
-### Day 13: April 299, 2024
+### Day 13: April 29, 2024
 
 #####
 
@@ -109,3 +109,13 @@
 **Thoughts:** I enjoy JavaScript, I just can't wait until I understand it more.
 
 **Link to work:** [Practice Projects: Double Landing Page](https://github.com/asazzam/practice-projects/tree/main/10-double-landing-page)
+
+### Day 14: April 30, 2024
+
+#####
+
+**Today's Progress**: Minimal progress today, I only made a random color generator.
+
+**Thoughts:** I'm hoping for more progress tomorrow.
+
+**Link to work:** [Practice Projects: Random Color Generator](https://github.com/asazzam/practice-projects/tree/main/11-random-color-generator)
