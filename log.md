@@ -119,3 +119,13 @@
 **Thoughts:** I'm hoping for more progress tomorrow.
 
 **Link to work:** [Practice Projects: Random Color Generator](https://github.com/asazzam/practice-projects/tree/main/11-random-color-generator)
+
+### Day 15: May 1, 2024
+
+#####
+
+**Today's Progress**: Only worked on an image gallery today.
+
+**Thoughts:** I'm hoping for more progress tomorrow. (again)
+
+**Link to work:** [Practice Projects: Rotating Image Gallery](https://github.com/asazzam/practice-projects/tree/main/12-rotating-image-gallery)
