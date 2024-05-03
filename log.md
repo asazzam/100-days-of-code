@@ -129,3 +129,13 @@
 **Thoughts:** I'm hoping for more progress tomorrow. (again)
 
 **Link to work:** [Practice Projects: Rotating Image Gallery](https://github.com/asazzam/practice-projects/tree/main/12-rotating-image-gallery)
+
+### Day 16: May 2, 2024
+
+#####
+
+**Today's Progress**: Today I worked on my blog post project. I think my practice projects are starting to pay off because it was a lot easier for me to get my layout to be responsive.
+
+**Thoughts:** I was able to work a bit longer today, which was nice. But I only worked on the one project.
+
+**Link to work:** No link today
