@@ -139,3 +139,13 @@
 **Thoughts:** I was able to work a bit longer today, which was nice. But I only worked on the one project.
 
 **Link to work:** No link today
+
+### Day 17: May 3, 2024
+
+#####
+
+**Today's Progress**: I worked more on the blog post project. I had some trouble with adding a sidebar, but it's mostly finished. Hopefully I can work it out tomorrow.
+
+**Thoughts:** My goal is to finish this project tomorrow and move on to the next!
+
+**Link to work:** No link today
