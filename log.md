@@ -149,3 +149,13 @@
 **Thoughts:** My goal is to finish this project tomorrow and move on to the next!
 
 **Link to work:** No link today
+
+### Day 18: May 4, 2024
+
+#####
+
+**Today's Progress**: I started my blog project from scratch and rebuilt the whole thing. I spent a lot of time looking things up and getting rationale from ChatGPT. It went pretty well.
+
+**Thoughts:** I didn't finish it like I had hoped to, but I got really close! I'll finish it tomorrow for sure. I learned a lot more about using grid and flexbox together and definitely have a better understanding.
+
+**Link to work:** [Blog Project](https://github.com/asazzam/personal-blog-project)
