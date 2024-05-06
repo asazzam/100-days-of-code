@@ -159,3 +159,13 @@
 **Thoughts:** I didn't finish it like I had hoped to, but I got really close! I'll finish it tomorrow for sure. I learned a lot more about using grid and flexbox together and definitely have a better understanding.
 
 **Link to work:** [Blog Project](https://github.com/asazzam/personal-blog-project)
+
+### Day 19: May 5, 2024
+
+#####
+
+**Today's Progress**: I made a lot of progress on my blog project, but did not have time to finish it. Mostly because I got ambitious and started adding things at the last minute.
+
+**Thoughts:** I don't love using grid, but I might when I get more used to it.
+
+**Link to work:** [Blog Project](https://github.com/asazzam/personal-blog-project)
