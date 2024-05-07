@@ -169,3 +169,13 @@
 **Thoughts:** I don't love using grid, but I might when I get more used to it.
 
 **Link to work:** [Blog Project](https://github.com/asazzam/personal-blog-project)
+
+### Day 20: May 6, 2024
+
+#####
+
+**Today's Progress**: I finally finished my blog project! I kept breaking things and having to fix them, but it was a good learning experience. I'm not overly proud of the final project, but I'm happy I got there.
+
+**Thoughts:** I'm so excited to move on to something new.
+
+**Link to work:** [Blog Project](https://asazzam.github.io/personal-blog-project/blog.html)
