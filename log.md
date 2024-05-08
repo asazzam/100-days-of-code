@@ -179,3 +179,13 @@
 **Thoughts:** I'm so excited to move on to something new.
 
 **Link to work:** [Blog Project](https://asazzam.github.io/personal-blog-project/blog.html)
+
+### Day 21: May 7, 2024
+
+#####
+
+**Today's Progress**: No time for much today, I just worked on one of the practice projects. I made a Google-inspired animated search bar.
+
+**Thoughts:** I'm going to spend some time on JavaScript this week. I'm excited to see how it goes.
+
+**Link to work:** [Practice Projects: Animated Search Bar](https://github.com/asazzam/practice-projects/tree/main/13-animated-search-bar)
