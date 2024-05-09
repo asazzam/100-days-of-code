@@ -189,3 +189,15 @@
 **Thoughts:** I'm going to spend some time on JavaScript this week. I'm excited to see how it goes.
 
 **Link to work:** [Practice Projects: Animated Search Bar](https://github.com/asazzam/practice-projects/tree/main/13-animated-search-bar)
+
+### Day 22: May 8, 2024
+
+#####
+
+**Today's Progress**: I did a lot of learning today, but not a whole lot of actual coding. I did finally go into SkillCrush and finish the section on using React locally. I did make confetti in React though! I wasn't paying attention and accidentally made the repo private.
+
+Tomorrow I'm going to re-do at least one of the React projects.
+
+**Thoughts:** I'm still looking forward to brushing up on JavaScript.
+
+**Link to work:** [React Practice](https://github.com/asazzam/react--practice)
