@@ -201,3 +201,13 @@ Tomorrow I'm going to re-do at least one of the React projects.
 **Thoughts:** I'm still looking forward to brushing up on JavaScript.
 
 **Link to work:** [React Practice](https://github.com/asazzam/react--practice)
+
+### Day 23: May 9, 2024
+
+#####
+
+**Today's Progress**: I only worked on one of the practice projects today - a loan calculator.
+
+**Thoughts:** I honestly don't have any thoughts today.
+
+**Link to work:** [Practice Projects: Loan Calculator](https://github.com/asazzam/practice-projects/tree/main/14-loan-calculator)
