@@ -211,3 +211,13 @@ Tomorrow I'm going to re-do at least one of the React projects.
 **Thoughts:** I honestly don't have any thoughts today.
 
 **Link to work:** [Practice Projects: Loan Calculator](https://github.com/asazzam/practice-projects/tree/main/14-loan-calculator)
+
+### Day 24: May 10, 2024
+
+#####
+
+**Today's Progress**: Again, I only worked on a practice project. Today was a New Year Countdown.
+
+**Thoughts:** I have a JavaScript shopping cart project due soon, so I will be working on that this weekend. I will definitely get more coding in.
+
+**Link to work:** [Practice Projects: New Year Countdown](https://github.com/asazzam/practice-projects/tree/main/15-new-year-countdown)
