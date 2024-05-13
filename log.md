@@ -221,3 +221,15 @@ Tomorrow I'm going to re-do at least one of the React projects.
 **Thoughts:** I have a JavaScript shopping cart project due soon, so I will be working on that this weekend. I will definitely get more coding in.
 
 **Link to work:** [Practice Projects: New Year Countdown](https://github.com/asazzam/practice-projects/tree/main/15-new-year-countdown)
+
+### Day 25 & 26: May 11-12, 2024
+
+#####
+
+**Today's Progress**: Busy weekend. I did some _(okay, very little)_ coding, but completely forgot about the log. I made a pomodoro timer and started the Udacity shopping cart project.
+
+**Thoughts:** Hopefully I will have some more time to code this week! No promises.
+
+**Link to work:** [Practice Projects: Pomodoro Timer](https://github.com/asazzam/practice-projects/tree/main/16-pomodoro-timer)
+
+[Shopping Cart Project](https://github.com/asazzam/udacity-shopping-cart-project)
