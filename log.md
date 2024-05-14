@@ -233,3 +233,13 @@ Tomorrow I'm going to re-do at least one of the React projects.
 **Link to work:** [Practice Projects: Pomodoro Timer](https://github.com/asazzam/practice-projects/tree/main/16-pomodoro-timer)
 
 [Shopping Cart Project](https://github.com/asazzam/udacity-shopping-cart-project)
+
+### Day 27: May 13, 2024
+
+#####
+
+**Today's Progress**: I did more learning than coding today, but I did complete an age calculator.
+
+**Thoughts:** 🙃
+
+**Link to work:** [Practice Projects: Age Calculator](https://github.com/asazzam/practice-projects/tree/main/17-age-calculator)
