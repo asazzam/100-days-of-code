@@ -243,3 +243,13 @@ Tomorrow I'm going to re-do at least one of the React projects.
 **Thoughts:** 🙃
 
 **Link to work:** [Practice Projects: Age Calculator](https://github.com/asazzam/practice-projects/tree/main/17-age-calculator)
+
+### Day 28-30: May 14-16, 2024
+
+#####
+
+**Today's Progress**: It's been so busy again, but I at least made time to code! I did a few more practice projects and have also been working through the Udacity JavaScript lessons.
+
+**Thoughts:** Things should finally slow down a bit soon and I will be able to plan my projects better.
+
+**Link to work:** [Practice Projects: Profile Statistics](https://github.com/asazzam/practice-projects/tree/main/18-profile-statistics)
