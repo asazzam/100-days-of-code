@@ -253,3 +253,13 @@ Tomorrow I'm going to re-do at least one of the React projects.
 **Thoughts:** Things should finally slow down a bit soon and I will be able to plan my projects better.
 
 **Link to work:** [Practice Projects: Profile Statistics](https://github.com/asazzam/practice-projects/tree/main/18-profile-statistics)
+
+### Day 31: May 17, 2024
+
+#####
+
+**Today's Progress**: I did another practice project. This time it was a movie trailer popup page. It was simple, but good practice for playing with event listeners and adding/removing classes.
+
+**Thoughts:** This weekend should see a lot more coding and troubleshooting as I work on my shopping cart project.
+
+**Link to work:** [Practice Projects: Video Trailer Popup](https://github.com/asazzam/practice-projects/tree/main/19-video-trailer-popup)
